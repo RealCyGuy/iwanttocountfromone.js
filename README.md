@@ -7,7 +7,7 @@
 Link into html:  
 
 ```html
-<script src="https://raw.githubusercontent.com/RealCyGuy/iwanttocountfromone.js/master/dist/iwanttocountfromone.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/realcyguy/iwanttocountfromone.js@1.0.0/dist/iwanttocountfromone.min.js"></script>
 ```
 
 Now you're good to go!
