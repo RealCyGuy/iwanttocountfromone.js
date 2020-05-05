@@ -2005,5 +2005,7 @@ function iwanttocountfromone(index) {
         return 998;
     } else if (index == 1000) {
         return 999;
+    } else {
+        throw "Too high";
     }
 };
