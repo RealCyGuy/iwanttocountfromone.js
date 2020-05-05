@@ -43,3 +43,6 @@ console.log(array[iwanttocountfromone(0)]);
 
 - Index may not exceed 1000.
 - Don't take this too seriously.
+
+## License
+Licensed under [MIT](https://github.com/RealCyGuy/iwanttocountfromone.js/blob/master/LICENSE)
