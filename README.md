@@ -24,7 +24,7 @@ console.log(array[0]); // Normal way (counting by zero (bad (like very (very) ba
 console.log(array[iwanttocountfromone(1)]); // Very good and cool way.
 >> "hi"
 console.log(array[iwanttocountfromone(2)]);
->> "hi"
+>> "bye"
 ```
 
 Don't count from 0!
