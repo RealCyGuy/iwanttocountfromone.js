@@ -34,7 +34,6 @@ console.log(array[iwanttocountfromone(0)]);
 >> NO COUNTING BY ZERO!!!
 ```
 
-
 ## Features
 
 - [x] Count from 1!
