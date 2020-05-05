@@ -1,6 +1,6 @@
 # iWantToCountFromOne.js
 
-*A lightweight (~10kb minfied), dependency-free, javascript library so you can count from 1.*
+*A lightweight? (~20kb minfied), dependency-free, javascript library so you can count from 1.*
 
 ## Installation
 
