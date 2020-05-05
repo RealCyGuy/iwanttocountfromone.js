@@ -17,17 +17,27 @@ Now you're good to go!
 Just count by 1!
 
 ```js
+// Start of code block.
 var array = ["hi", "bye"];
-console.log(array[0]);
+console.log(array[0]); // Normal way (counting by zero (bad (like very (very) bad))).
 >> "hi"
-console.log(iwanttocountfromone(1));
+console.log(array[iwanttocountfromone(1)]); // Very good and cool way.
+>> "hi"
+console.log(array[iwanttocountfromone(2)]);
 >> "hi"
 ```
+
+Don't count from 0!
+
+```js
+console.log(array[iwanttocountfromone(0)]);
+>> NO COUNTING BY ZERO!!!
+```
+
 
 ## Features
 
 - [x] Count from 1!
-- [x] Negative indexing.
 - [ ] Cat gifs. (In progress)
 
 ## Notes
