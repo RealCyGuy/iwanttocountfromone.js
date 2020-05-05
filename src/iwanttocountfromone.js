@@ -4,7 +4,7 @@ function iwanttocountfromone(index) {
     } else if (index == 0) {
         throw "NO COUNTING BY ZERO!!!";
     } else if (index < 0) {
-        return index;
+        throw "Too low";
     } else if (index == 1) {
         return 0;
     } else if (index == 2) {
