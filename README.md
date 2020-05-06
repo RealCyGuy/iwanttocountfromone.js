@@ -1,5 +1,9 @@
 # iWantToCountFromOne.js
 
+[![GitHub license](https://img.shields.io/github/license/RealCyGuy/iwanttocountfromone.js?style=for-the-badge)](https://github.com/RealCyGuy/iwanttocountfromone.js/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/RealCyGuy/iwanttocountfromone.js?style=for-the-badge)](https://github.com/RealCyGuy/iwanttocountfromone.js/issues)
+[![GitHub forks](https://img.shields.io/github/forks/RealCyGuy/iwanttocountfromone.js?style=for-the-badge)](https://github.com/RealCyGuy/iwanttocountfromone.js/network)
+
 *A lightweight? (~20kb minfied), dependency-free, javascript library so you can count from 1.*
 
 ## Installation
