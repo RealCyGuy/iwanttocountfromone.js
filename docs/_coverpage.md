@@ -1,4 +1,4 @@
-# [iWantToCountFromOne.js<small>1.0.0</small>](/)
+# [iWantToCountFromOne.js<small>1.0.1</small>](/)
 
 > Count from one.
 
