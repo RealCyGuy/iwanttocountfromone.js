@@ -9,10 +9,10 @@
 
 ## Installation
 
-Link into html:  
+Install with npm:
 
-```html
-<script src="https://cdn.jsdelivr.net/gh/realcyguy/iwanttocountfromone.js@1.0.0/dist/iwanttocountfromone.min.js"></script>
+```bash
+npm i iwanttocountfromone.js
 ```
 
 Now you're good to go!
@@ -23,6 +23,7 @@ Just count by 1!
 
 ```js
 // Start of code block.
+const iwanttocountfromone = require("iwanttocountfromone");
 var array = ["hi", "bye"];
 console.log(array[0]); // Normal way (counting by zero (bad (like very (very) bad))).
 >> "hi"

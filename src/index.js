@@ -2009,3 +2009,5 @@ function iwanttocountfromone(index) {
         throw "Too high";
     }
 };
+
+module.exports = iwanttocountfromone;

@@ -1,0 +1,25 @@
+{
+  "name": "iwanttocountfromone.js",
+  "version": "2.0.0",
+  "description": "A lightweight? (~20kb minfied), dependency-free, javascript library so you can count from 1.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RealCyGuy/iwanttocountfromone.js.git"
+  },
+  "author": "Cyrus Yip",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RealCyGuy/iwanttocountfromone.js/issues"
+  },
+  "homepage": "https://github.com/RealCyGuy/iwanttocountfromone.js#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
